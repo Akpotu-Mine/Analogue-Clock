@@ -1,0 +1,1 @@
+An analogue clock created with the intention of practicing vanilla Javascript
