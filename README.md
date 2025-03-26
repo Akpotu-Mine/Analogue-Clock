@@ -1,1 +1,1 @@
-An analogue clock created with the intention of practicing vanilla Javascript
+An analogue clock created with vanilla Javascript
